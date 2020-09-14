@@ -1,4 +1,6 @@
-import javax.swing.JFrame;
+package com.company;
+
+import javax.swing.*;
 
 public class Runner {
 
